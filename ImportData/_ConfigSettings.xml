@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <var name="INTEGRATION_SERVICE_URL" value="http://learn01.centrvd.ru" />
+  <var name="INTEGRATION_SERVICE_REQUEST_TIMEOUT" value="600" />
+  <var name="SERVER_ROOT_HTTP" value="http://learn01.centrvd.ru"/>
+  <var name="SERVER_ROOT_HTTPS" value="http://learn01.centrvd.ru"/>
+  <var name="SERVER_PROTOCOL" value="http"/>
+  <var name="SYSTEM_NAME" value="Develop"/>
+  <var name="LOGS_PATH" value="C:\rx_data/logs"/>
+  <var name="TENANT" value="DirectumRX4.3"/>
+  <var name="LANGUAGE" value="ru-ru"/>
+  <var name="LOG_LANGUAGE" value="ru-ru"/>
+  <meta name="FORCE_USE_APPDATA_PATH" value="true"/>
+</settings>
